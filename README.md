@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjrunK
 - 👀 I’m interested in Europe Football and Games!
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently learning Node Js and JavaScript
 - 💞️ I’m looking for a gf (update : finallyyy i got a girlfriend)
 
 
